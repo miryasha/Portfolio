@@ -1,5 +1,4 @@
 
-https://yasha6081.github.io/React_Portfolio/
 
 
 # Getting Started with Create React App
